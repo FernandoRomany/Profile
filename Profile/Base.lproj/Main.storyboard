@@ -37,19 +37,19 @@
                                     <constraint firstAttribute="height" constant="110" id="qnC-8S-3f6"/>
                                 </constraints>
                             </imageView>
-                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="hTp-p0-zl4">
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="-40" translatesAutoresizingMaskIntoConstraints="NO" id="hTp-p0-zl4">
                                 <rect key="frame" x="20" y="255" width="335" height="57"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cfb-mf-LQ3">
-                                        <rect key="frame" x="0.0" y="0.0" width="98.5" height="57"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="138.5" height="57"/>
                                         <state key="normal" image="cameraButton"/>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="581-Yt-SVV">
-                                        <rect key="frame" x="118.5" y="0.0" width="98" height="57"/>
+                                        <rect key="frame" x="98.5" y="0.0" width="138" height="57"/>
                                         <state key="normal" image="favoriteButton"/>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lhb-xf-i3P">
-                                        <rect key="frame" x="236.5" y="0.0" width="98.5" height="57"/>
+                                        <rect key="frame" x="196.5" y="0.0" width="138.5" height="57"/>
                                         <state key="normal" image="inboxButton"/>
                                     </button>
                                 </subviews>
